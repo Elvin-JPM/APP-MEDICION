@@ -3,4 +3,3 @@ function SignUp() {
 }
 
 export default SignUp;
-SignUp;
